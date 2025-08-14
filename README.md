@@ -5,7 +5,7 @@
 * **Địa điểm:** Thôn Ia Sik, xã Ia Nhin, huyện Chư Păh, Gia Lai (Đất đỏ bazan)
 * **Lịch Canh Tác:** Từ 01/09/2025 đến 30/08/2026
 * **Phương Pháp Kỹ Thuật:** Chủ động điều khiển cơi đọt ra cùng lúc với quá trình làm bông, không dùng biện pháp "đốt đọt".
-* **Phương pháp bón phân gốc hiệu quả** Dưới đây mình chỉ nói tổng lượng phân trong **1 giai đoạn kéo dài từ 2 - 3 tháng**. Hãy chia lượng phân ra bón làm nhiều lần, **7 - 10 ngày/lần** và **2 - 3 lạng/cây**.
+* **Phương pháp bón phân gốc hiệu quả** Dưới đây mình chỉ nói tổng lượng phân trong **1 giai đoạn kéo dài từ 2 - 3 tháng**. Hãy chia lượng phân ra bón làm nhiều lần, **10 - 15 ngày/lần** và **2 - 3 lạng/cây**.
 
 ### **Giai Đoạn 1: Phục Hồi & Tạo Nền Tảng Đồng Đều (Tháng 9 – Hết Tháng 12/2025)**
 
