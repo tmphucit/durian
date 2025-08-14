@@ -141,6 +141,19 @@ Khi pha chung nhiều loại phân bón lá, đặc biệt là khi có cả **Ca
 *   **Hành động:** Ngưng mọi hoạt động phun xịt trong 5-7 ngày để bảo vệ quá trình thụ phấn.
 *   **Thụ phấn:** Chủ động thụ phấn bổ sung từ **18h00 đến 21h00 (6 giờ đến 9 giờ tối)**. Đây là lúc hoa nở rộ nhất, bao phấn đã nứt ra để tung phấn, và đầu nhụy cái đang tiết ra chất dịch dính bóng loáng để sẵn sàng tiếp nhận hạt phấn.
 
+*   Việc **ngưng tưới nước** trong giai đoạn xổ nhụy là một **sai lầm phổ biến và cực kỳ nguy hiểm**.
+*   **Tại sao KHÔNG được ngưng tưới nước?**
+    1.  **Cây Cần Năng Lượng:** Quá trình nở hoa, tung phấn và thụ tinh tiêu tốn rất nhiều năng lượng và nước của cây. Ngưng nước lúc này sẽ làm cây bị sốc, suy kiệt.
+    2.  **Gây Rụng Hoa Hàng Loạt:** Mất nước đột ngột sẽ khiến cây ưu tiên cứu thân, cành và sẽ tự động "hy sinh" những bộ phận tiêu tốn nhiều dinh dưỡng nhất là hoa. Tầng rời ở cuống hoa sẽ hình thành rất nhanh và gây rụng hàng loạt.
+    3.  **Giảm Sức Sống Hạt Phấn:** Môi trường quá khô cũng làm giảm sức sống của hạt phấn và làm khô đầu nhụy cái, khiến quá trình thụ tinh gặp khó khăn.
+
+*   **Vậy phải tưới nước như thế nào cho đúng?**
+    *   **Nguyên tắc VÀNG:** **Duy trì độ ẩm ổn định, không để đất khô, cũng không tưới đẫm gây sốc nước.**
+    *   **Hành động cụ thể:**
+        *   Tưới với lượng nước **vừa phải**, chỉ đủ để giữ ẩm cho vùng rễ. Có thể giảm lượng nước xuống còn **50-70%** so với giai đoạn dưỡng bông.
+        *   Tưới nhẹ nhàng vào **sáng sớm hoặc chiều mát**. Tránh tưới vào buổi trưa nắng gắt hoặc buổi tối (thời điểm hoa đang nở).
+        *   ***Tuyệt đối không tưới đẫm, không để nước ngập quanh gốc.*** Sự thay đổi độ ẩm đột ngột cũng là nguyên nhân gây sốc và rụng hoa.
+
 **2. Tỉa Trái (Quan trọng - Thực hiện 2-3 lần):**
 *   **Gợi ý** Để dễ quản lý, bạn có thể đánh dấu số trái dự kiến trên mỗi cây (dựa vào sức khỏe) và trong quá trình tỉa, cố gắng bám sát con số đó. Cây 6 năm tuổi, khỏe mạnh, bộ lá sung túc có thể mang 60-80 trái. Cây trung bình thì 50-60 trái là hợp lý.
 *   **Lần 1 (Sau xổ nhụy 2-3 tuần, trái bằng ngón tay cái):**
