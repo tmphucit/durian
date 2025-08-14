@@ -5,6 +5,7 @@
 * **Địa điểm:** Thôn Ia Sik, xã Ia Nhin, huyện Chư Păh, Gia Lai (Đất đỏ bazan)
 * **Lịch Canh Tác:** Từ 01/09/2025 đến 30/08/2026
 * **Phương Pháp Kỹ Thuật:** Chủ động điều khiển cơi đọt ra cùng lúc với quá trình làm bông, không dùng biện pháp "đốt đọt".
+* **Phương pháp bón phân gốc** Dưới đây mình chỉ nói tổng lượng phân trong 1 giai đoạn kéo dài từ 2 - 3 tháng. Hay chia lượng phân ra bón làm nhiều lần, 7 - 10 ngày/lần và 2 - 3 lạng/cây.
 
 ### **Giai Đoạn 1: Phục Hồi & Tạo Nền Tảng Đồng Đều (Tháng 9 – Hết Tháng 12/2025)**
 
@@ -40,7 +41,7 @@
 
 **2. Thúc Cơi Đọt 1 (Thực hiện cuối tháng 9):**
 *   **Bón gốc:**
-    *   **Liều lượng/gốc:** 20-25 kg phân chuồng hoai mục (hoặc 8-10 kg hữu cơ công nghiệp) + 200g nấm *Trichoderma* + **2 kg NPK 20-20-15** + **0.5 kg Humic Acid**. **Chia ra nhiều lần bón trong quá trình này. VD: 7/lần từ 2-3 lạng/cây như vậy sẽ tránh lãng phí phân và cây hấp thụ tốt hơn**
+    *   **Liều lượng/gốc:** 20-25 kg phân chuồng hoai mục (hoặc 8-10 kg hữu cơ công nghiệp) + 200g nấm *Trichoderma* + **2 kg NPK 20-20-15** + **0.5 kg Humic Acid**.
     *   **Vị trí bón:** Cuốc rãnh nông (sâu 15-20cm) theo mép tán lá, rải đều phân vào rãnh rồi lấp đất lại.
     *   **Tưới nước:** Ngay sau khi bón, tưới đẫm **khoảng 150-200 lít/gốc** để hòa tan phân.
 *   **Phun lá & Bảo vệ (Khi đọt nhú, phun định kỳ 7-10 ngày/lần):**
