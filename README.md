@@ -40,7 +40,7 @@
 
 **2. Thúc Cơi Đọt 1 (Thực hiện cuối tháng 9):**
 *   **Bón gốc:**
-    *   **Liều lượng/gốc:** 20-25 kg phân chuồng hoai mục (hoặc 8-10 kg hữu cơ công nghiệp) + 200g nấm *Trichoderma* + **2 kg NPK 20-20-15** + **0.5 kg Humic Acid**.
+    *   **Liều lượng/gốc:** 20-25 kg phân chuồng hoai mục (hoặc 8-10 kg hữu cơ công nghiệp) + 200g nấm *Trichoderma* + **2 kg NPK 20-20-15** + **0.5 kg Humic Acid**. **Chia ra nhiều lần bón trong quá trình này. VD: 7/lần từ 2-3 lạng/cây như vậy sẽ tránh lãng phí phân và cây hấp thụ tốt hơn**
     *   **Vị trí bón:** Cuốc rãnh nông (sâu 15-20cm) theo mép tán lá, rải đều phân vào rãnh rồi lấp đất lại.
     *   **Tưới nước:** Ngay sau khi bón, tưới đẫm **khoảng 150-200 lít/gốc** để hòa tan phân.
 *   **Phun lá & Bảo vệ (Khi đọt nhú, phun định kỳ 7-10 ngày/lần):**
