@@ -33,7 +33,10 @@
     *   **Liều lượng:** Pha theo hướng dẫn trên bao bì.
     *   **Vị trí phun:** Phun ướt đẫm toàn bộ thân, cành (đặc biệt là các vết cắt) và 2 mặt lá.
 *   **Xử lý đất:**
-    *   **Rải vôi:** Dùng **1.5-2 kg Vôi bột/gốc**. **Vị trí rải:** Rải đều trên mặt đất trong phạm vi hình chiếu của tán lá, từ gốc ra tới mép tán.
+    *   **Rải vôi (Khuyến khích dùng vôi Dolomite):** Dùng **0.5 - 1 kg / gốc với PH từ 5.8 - 6.5**. 
+        *   **Khuyến khích:** Nên dùng **vôi Dolomite** là một loại vôi được sản xuất từ đá dolomite, một loại đá có chứa canxi cacbonat (CaCO₃) và magie cacbonat (MgCO₃) 
+        *   **Vị trí rải:** Rải đều trên mặt đất trong phạm vi hình chiếu của tán lá, từ gốc ra tới mép tán.
+        *   **Gợi ý:** Trước khi rải vôi, bạn nên kiểm tra nhanh **pH** đất. Đất đỏ bazan thường có pH từ 5.0 - 6.5. Nếu pH đất của bạn đã ở mức lý tưởng (5.8 - 6.5), bạn có thể giảm lượng vôi xuống còn **0.5 - 1 kg/gốc** hoặc chỉ sử dụng các sản phẩm hữu cơ giàu canxi (như bột vỏ trứng, phân gà xử lý) để tránh làm pH tăng quá cao đột ngột.
     *   **Tưới thuốc nấm (Sau rải vôi 7-10 ngày):**
         *   **Sản phẩm:** Thuốc đặc trị nấm rễ (chứa hoạt chất Metalaxyl, Phosphonate...).
         *   **Liều lượng:** Pha theo hướng dẫn trên bao bì.
@@ -42,6 +45,7 @@
 **2. Thúc Cơi Đọt 1 (Thực hiện cuối tháng 9):**
 *   **Bón gốc:**
     *   **Liều lượng/gốc:** 20-25 kg phân chuồng hoai mục (hoặc 8-10 kg hữu cơ công nghiệp) + 200g nấm *Trichoderma* + **2 kg NPK 20-20-15** + **0.5 kg Humic Acid**.
+    *   **Gợi ý Tối ưu Chi phí & Hiệu quả:** Chia lượng hữu cơ công nghiệp này ra làm **2-3 lần bón** trong giai đoạn tạo cơi 1. Ví dụ: Lần 1 bón 4kg hữu cơ + NPK 20-20-15. Sau đó 20-25 ngày, khi đọt bắt đầu mở lá, bón thêm 4kg hữu cơ còn lại. Việc này giúp cung cấp dinh dưỡng trải đều, giúp rễ hấp thu hiệu quả hơn và giảm thất thoát.
     *   **Vị trí bón:** Cuốc rãnh nông (sâu 15-20cm) theo mép tán lá, rải đều phân vào rãnh rồi lấp đất lại.
     *   **Tưới nước:** Ngay sau khi bón, tưới đẫm **khoảng 150-200 lít/gốc** để hòa tan phân.
 *   **Phun lá & Bảo vệ (Khi đọt nhú, phun định kỳ 7-10 ngày/lần):**
@@ -76,13 +80,15 @@
 
 **3. Kích Bật Mắt Cua & Kéo Đọt (Thực hiện cuối tháng 2 - đầu tháng 3):**
 *   **Biểu hiện hành động:** Chờ đến khi **70-80% cây trong vườn đã nhú mắt cua sáng, dài 2-3cm**.
+*   **Gợi ý Quản lý:** Để đảm bảo sự đồng đều, trước khi quyết định tưới đồng loạt, bạn nên đi kiểm tra ngẫu nhiên ở nhiều khu vực trong vườn (đất cao, đất trũng). Nếu vườn có sự chênh lệch, có thể tưới nhử trước cho những cây ra mắt cua chậm hơn khoảng 2-3 ngày so với phần còn lại của vườn.
 *   **Hành động đồng loạt:**
-    *   **Tưới nhử:** Tưới lại cho toàn vườn, lần đầu **50-60 lít/gốc**.
+    *   **Tưới nhử:** Tưới lại cho toàn vườn, lần đầu **50-60 lít/gốc** và tăng dần nước cho những lần tới.
     *   **Kích đọt - Gốc (Sau tưới 2-3 ngày):**
         *   **Liều lượng/gốc:** Hòa **0.5 kg NPK 30-10-10** + **200ml Humic Acid đậm đặc** với nước.
         *   **Vị trí tưới:** Tưới đều quanh vùng gốc.
     *   **Kích đọt - Lá (Phun ngay sau tưới gốc):**
         *   **Pha cho phuy 200 lít:** **250g NPK 30-10-10** + **250ml Amino Acid** + **10-15 ml GA3** (Lưu ý: GA3 là chất điều hòa sinh trưởng mạnh, tuyệt đối không tăng liều) + Gói thuốc trừ rầy (pha theo liều lượng trên bao bì).
+        *   **Về GA3** **Chỉ phun GA3 khi mắt cua đã sáng và dài rõ ràng (2-3cm)**. Nếu phun quá sớm khi mắt cua còn tối, nhỏ, có nguy cơ mắt cua sẽ bị "điếc" hoặc phát triển thành chồi lá.
         *   **Vị trí phun:** Phun ướt đẫm tán lá, tập trung vào các đỉnh chồi non.
 
 ---
@@ -99,13 +105,30 @@
 *   **Dụng cụ:** Dùng kéo sắc, sạch để cắt, tránh làm tổn thương cành.
 
 **2. Chăm sóc kép (Phun định kỳ 7-10 ngày sau khi tỉa bông):**
-*   **Dưỡng hoa:**
-    *   **Pha cho phuy 200 lít:** **250ml Canxi-Bo** + Gói thuốc trị thán thư (pha theo liều lượng trên bao bì).
-    *   **Vị trí phun:** Phun tập trung **chỉ vào các chùm hoa đã được chọn lọc**, hạn chế phun lên đọt non.
-*   **Dưỡng đọt:**
-    *   **Pha cho phuy 200 lít:** **500g NPK 20-20-20** + **1 gói Vi lượng Combi (loại 50g)** + Gói thuốc trừ rầy (pha theo liều lượng trên bao bì).
-    *   **Vị trí phun:** Phun tập trung **chỉ lên dàn lá và các đọt non**, hạn chế phun vào hoa.
+*   **Dưỡng hoa + Dưỡng đọt:**
+    *   **Pha cho phuy 200 lít:** **300g NPK 20-20-20 + 250ml Canxi-Bo + 200 - 250g Magie (Mg) + 1 gói Vi lượng Combi (loại 50g)** + Gói thuốc trừ rầy **Loại mát** (pha theo liều lượng trên bao bì).
+    *   **Vị trí phun:** Phun vào hoa, dàn lá và các đọt non.
+    *   **Gợi ý Bổ sung:** Trong giai đoạn này, có thể bổ sung thêm Magie (Mg) qua lá (phun Magie Sulphate) hoặc bón gốc (dùng phân NPK có thành phần Mg hoặc bón Dolomite từ giai đoạn cải tạo đất). Magie là nhân của diệp lục, giúp bộ lá quang hợp mạnh để nuôi cả đọt và hoa, hạn chế cạnh tranh dinh dưỡng.
 *   **Tưới nước:** Giữ ẩm đều đặn, **100-120 lít/gốc**, 2-3 ngày/lần.
+
+### **LƯU Ý CỰC KỲ QUAN TRỌNG VỀ THỨ TỰ HÒA TAN**
+
+Khi pha chung nhiều loại phân bón lá, đặc biệt là khi có cả **Canxi (Ca)** và **gốc Sunphat (SO₄)** (từ Magie Sunphat), bạn phải tuân thủ đúng thứ tự để tránh hiện tượng kết tủa, làm mất tác dụng của phân bón.
+
+**Nguyên nhân:** Canxi trong Canxi-Bo có thể phản ứng với gốc Sunphat (SO₄) trong Magie Sunphat, gây ra hiện tượng kết tủa Canxi Sunphat (CaSO₄ - thạch cao), có dạng vón cục trắng như sữa hoặc lợn cợn như vôi. Khi đã kết tủa, cây không thể hấp thu được.
+
+**Quy trình pha chuẩn để tránh kết tủa:**
+
+1.  Đổ khoảng 100-150 lít nước sạch vào phuy (nửa hoặc 2/3 phuy).
+2.  **Hòa tan các loại phân dạng bột trước, lần lượt từng loại một:**
+    *   **Bước 1:** Cho **Magie Sunphat (MgSO₄)** vào trước, khuấy đều cho tan hoàn toàn.
+    *   **Bước 2:** Cho **NPK 20-20-20** vào, khuấy đều cho tan hoàn toàn.
+    *   **Bước 3:** Cho **Vi lượng Combi** vào, khuấy đều.
+3.  **Hòa tan các loại phân dạng lỏng sau:**
+    *   **Bước 4:** Cho **Canxi-Bo** vào phuy đã có dung dịch phân bón bột loãng. Việc pha loãng các thành phần trước khi cho chúng gặp nhau sẽ giảm thiểu tối đa nguy cơ kết tủa.
+4.  **Thêm thuốc BVTV cuối cùng:**
+    *   **Bước 5:** Cho **gói thuốc trừ rầy** vào.
+5.  **Bước 6:** Thêm nước sạch cho đủ 200 lít và khuấy đều lần cuối trước khi phun.
 
 ---
 
@@ -118,6 +141,7 @@
 *   **Hành động:** Ngưng mọi hoạt động phun xịt trong 5-7 ngày để bảo vệ quá trình thụ phấn.
 
 **2. Tỉa Trái (Quan trọng - Thực hiện 2-3 lần):**
+*   **Gợi ý** Để dễ quản lý, bạn có thể đánh dấu số trái dự kiến trên mỗi cây (dựa vào sức khỏe) và trong quá trình tỉa, cố gắng bám sát con số đó. Cây 6 năm tuổi, khỏe mạnh, bộ lá sung túc có thể mang 60-80 trái. Cây trung bình thì 50-60 trái là hợp lý.
 *   **Lần 1 (Sau xổ nhụy 2-3 tuần, trái bằng ngón tay cái):**
     *   **Mục tiêu:** Loại bỏ sơ bộ những trái không có khả năng phát triển.
     *   **Hành động:** Tỉa bỏ những trái méo mó, dị dạng, cuống nhỏ, bị sâu bệnh chích hút, những trái đậu quá dày trong một chùm.
@@ -129,6 +153,7 @@
 *   **Vị trí bón cho cả 3 lần:** Rải đều phân trên mặt đất trong phạm vi tán lá và tưới nước ngay sau đó.
 *   **Lần 1 (Ngay sau khi tỉa trái lần 2):** Bón **1.5 kg NPK 16-16-16/gốc**.
 *   **Lần 2 (Tháng 6 - Trái đạt 1-1.5kg):** Bón **1.5 - 2 kg NPK 12-12-17+TE/gốc**.
+    *   **Ghi chú:** Ở lần bón thứ 2 (NPK 12-12-17+TE), nên ưu tiên các dòng phân bón có bổ sung Canxi và Magie để giúp trái lớn nhanh, vỏ cứng, hạn chế nứt trái và sượng cơm.
 *   **Lần 3 (Đầu tháng 7 - Trước thu hoạch 45-50 ngày):** Bón **1.5 - 2 kg Kali Sunphat (K₂SO₄)/gốc**.
 
 **4. Chăm sóc bổ sung & Hoàn thiện:**
@@ -139,3 +164,9 @@
 *   **Ngưng xử lý (Từ giữa tháng 8):**
     *   Ngưng hoàn toàn thuốc BVTV trước thu hoạch tối thiểu 20 ngày.
     *   **NGƯNG TƯỚI NƯỚC** trước thu hoạch 10-15 ngày.
+
+---
+**QUẢN LÝ BỀN VỮNG**
+*   **Luân phiên thuốc BVTV:** Nên có danh sách các hoạt chất thuốc trừ rầy, nhện, nấm... và luân phiên sử dụng để tránh tình trạng sâu bệnh kháng thuốc.
+*   **Sức khỏe đất:** Tiếp tục duy trì việc sử dụng Trichoderma và Humic Acid hàng năm. Đây là khoản đầu tư cho sức khỏe lâu dài của vườn cây, giúp bộ rễ khỏe mạnh, kháng bệnh tốt hơn.
+*   **Quản lý nước:** Nên kết hợp quan sát thực tế độ ẩm đất và biểu hiện của cây để điều chỉnh lượng nước tưới cho phù hợp, đặc biệt là vào mùa khô.
