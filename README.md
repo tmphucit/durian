@@ -63,7 +63,7 @@
 **1. Tạo Mầm Hoa (Thực hiện giữa - cuối tháng 1):**
 *   **Biểu hiện cây:** 90% cây trong vườn có cơi đọt cuối cùng đã già đều.
 *   **Bón gốc (Trước siết nước):**
-    *   **Liều lượng/gốc:** Trộn đều **3-4 kg Super Lân** + **1 kg Kali Sunphat (K₂SO₄)**.
+    *   **Liều lượng/gốc:** Trộn đều **3-4 kg Super Lân** + **1 kg Kali Sunphat (K₂SO₄)**. **GIAI ĐOẠN NÀY KHÔNG CẦN CHIA RA LÀM NHIỀU LẦN BÓN**
     *   **Vị trí bón:** Rải đều trên mặt đất dưới tán lá.
     *   **Tưới nước:** Tưới đẫm 1-2 lần **(100-150 lít/gốc)** trong tuần tiếp theo để cây hấp thụ.
 *   **Phun lá (Sau bón gốc 7 ngày, phun 2 lần cách nhau 7-10 ngày):**
