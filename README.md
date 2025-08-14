@@ -137,6 +137,7 @@ Khi pha chung nhiều loại phân bón lá, đặc biệt là khi có cả **Ca
 **Mục tiêu:** Tăng tỉ lệ đậu trái, chọn lọc những trái đẹp nhất để nuôi, giúp trái lớn nhanh, đạt chuẩn về trọng lượng, hình dáng và chất lượng cơm.
 
 **1. Giai đoạn xổ nhụy (Cuối tháng 4):**
+*   **Thụ phấn:** Chủ động thụ phấn bổ sung từ **18h00 đến 21h00 (6 giờ đến 9 giờ tối)**. Đây là lúc hoa nở rộ nhất, bao phấn đã nứt ra để tung phấn, và đầu nhụy cái đang tiết ra chất dịch dính bóng loáng để sẵn sàng tiếp nhận hạt phấn.
 *   **Biểu hiện lý tưởng:** Hoa nở rộ cũng là lúc cơi đọt đã chuyển sang màu xanh lụa/bánh tẻ.
 *   **Hành động:** Ngưng mọi hoạt động phun xịt trong 5-7 ngày để bảo vệ quá trình thụ phấn.
 
