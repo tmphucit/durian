@@ -137,9 +137,9 @@ Khi pha chung nhiều loại phân bón lá, đặc biệt là khi có cả **Ca
 **Mục tiêu:** Tăng tỉ lệ đậu trái, chọn lọc những trái đẹp nhất để nuôi, giúp trái lớn nhanh, đạt chuẩn về trọng lượng, hình dáng và chất lượng cơm.
 
 **1. Giai đoạn xổ nhụy (Cuối tháng 4):**
-*   **Thụ phấn:** Chủ động thụ phấn bổ sung từ **18h00 đến 21h00 (6 giờ đến 9 giờ tối)**. Đây là lúc hoa nở rộ nhất, bao phấn đã nứt ra để tung phấn, và đầu nhụy cái đang tiết ra chất dịch dính bóng loáng để sẵn sàng tiếp nhận hạt phấn.
 *   **Biểu hiện lý tưởng:** Hoa nở rộ cũng là lúc cơi đọt đã chuyển sang màu xanh lụa/bánh tẻ.
 *   **Hành động:** Ngưng mọi hoạt động phun xịt trong 5-7 ngày để bảo vệ quá trình thụ phấn.
+*   **Thụ phấn:** Chủ động thụ phấn bổ sung từ **18h00 đến 21h00 (6 giờ đến 9 giờ tối)**. Đây là lúc hoa nở rộ nhất, bao phấn đã nứt ra để tung phấn, và đầu nhụy cái đang tiết ra chất dịch dính bóng loáng để sẵn sàng tiếp nhận hạt phấn.
 
 **2. Tỉa Trái (Quan trọng - Thực hiện 2-3 lần):**
 *   **Gợi ý** Để dễ quản lý, bạn có thể đánh dấu số trái dự kiến trên mỗi cây (dựa vào sức khỏe) và trong quá trình tỉa, cố gắng bám sát con số đó. Cây 6 năm tuổi, khỏe mạnh, bộ lá sung túc có thể mang 60-80 trái. Cây trung bình thì 50-60 trái là hợp lý.
