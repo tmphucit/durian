@@ -107,7 +107,7 @@
 **2. Chăm sóc kép (Phun định kỳ 7-10 ngày sau khi tỉa bông):**
 *   **Dưỡng hoa + Dưỡng đọt:**
     *   **Pha cho phuy 200 lít:**
-       *   **300g NPK 20-20-20** + 250ml Canxi-Bo + 200 - 250g Magie (Mg) + 1 gói Vi lượng Combi (loại 50g)** + Gói thuốc trừ rầy **Loại mát** (pha theo liều lượng trên bao bì).
+       *   **300g NPK 20-20-20** (Cung cấp dinh dưỡng đa lượng cân bằng).
        *   **250ml Canxi-Bo** (Giúp cuống hoa dai, tăng thụ phấn).
        *   **200g Magie Sulphate (MgSO₄)** (Giúp lá xanh dày, tăng quang hợp).
        *   **1 gói Vi lượng Combi (loại 50g, có chứa Kẽm - Zn)** (Bổ sung Kẽm và các vi lượng thiết yếu khác).
