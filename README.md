@@ -106,10 +106,16 @@
 
 **2. Chăm sóc kép (Phun định kỳ 7-10 ngày sau khi tỉa bông):**
 *   **Dưỡng hoa + Dưỡng đọt:**
-    *   **Pha cho phuy 200 lít:** **300g NPK 20-20-20 + 250ml Canxi-Bo + 200 - 250g Magie (Mg) + 1 gói Vi lượng Combi (loại 50g)** + Gói thuốc trừ rầy **Loại mát** (pha theo liều lượng trên bao bì).
-    *   **Vị trí phun:** Phun vào hoa, dàn lá và các đọt non.
+    *   **Pha cho phuy 200 lít:**
+       *   **300g NPK 20-20-20** + 250ml Canxi-Bo + 200 - 250g Magie (Mg) + 1 gói Vi lượng Combi (loại 50g)** + Gói thuốc trừ rầy **Loại mát** (pha theo liều lượng trên bao bì).
+       *   **250ml Canxi-Bo** (Giúp cuống hoa dai, tăng thụ phấn).
+       *   **200g Magie Sulphate (MgSO₄)** (Giúp lá xanh dày, tăng quang hợp).
+       *   **1 gói Vi lượng Combi (loại 50g, có chứa Kẽm - Zn)** (Bổ sung Kẽm và các vi lượng thiết yếu khác).
+       *   **Gói thuốc trừ rầy loại mát** (ít gây nóng bông như các hoạt chất Imidacloprid, Thiamethoxam...) pha theo liều lượng trên bao bì.
+       *   **Gói thuốc trị thán thư** (nếu cần thiết, pha theo liều lượng trên bao bì).
+    *   **Vị trí phun:** Phun ướt đều toàn bộ tán lá, đọt non và các chùm hoa đã tỉa chọn. Phun vào lúc sáng sớm hoặc chiều mát..
     *   **Gợi ý Bổ sung:** Trong giai đoạn này, có thể bổ sung thêm Magie (Mg) qua lá (phun Magie Sulphate) hoặc bón gốc (dùng phân NPK có thành phần Mg hoặc bón Dolomite từ giai đoạn cải tạo đất). Magie là nhân của diệp lục, giúp bộ lá quang hợp mạnh để nuôi cả đọt và hoa, hạn chế cạnh tranh dinh dưỡng.
-*   **Tưới nước:** Giữ ẩm đều đặn, **100-120 lít/gốc**, 2-3 ngày/lần.
+*   **Tưới nước:** Giữ ẩm đều đặn, không để đất quá khô hay quá ướt. **100-120 lít/gốc**, 2-3 ngày/lần tùy điều kiện thời tiết.
 
 ### **LƯU Ý CỰC KỲ QUAN TRỌNG VỀ THỨ TỰ HÒA TAN**
 
