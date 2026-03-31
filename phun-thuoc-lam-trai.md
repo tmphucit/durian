@@ -22,7 +22,7 @@
 | Thời điểm | Công thức pha (Phi 200L) | Lưu ý |
 | :--- | :--- | :--- |
 | **Mắt cua 2-3cm** | 200ml Amino Acid + 100ml Combi + Thuốc rầy | Phun trực tiếp vào mắt cua và toàn cây. |
-| **Trước xổ nhụy 7 ngày** | 250ml Canxi-Bo + 200ml Antracol (trị thán thư) | Phun đẫm chùm bông để tăng hạt phấn & ngừa rụng. |
+| **Khi mắt cua sáng hết, trước xổ nhụy 7 ngày và trái bằng quả trứng gà** | 250ml Canxi-Bo + 200-250ml Antracol (trị thán thư) + Amistar (1 chai) | Phun đẫm chùm bông để tăng hạt phấn & ngừa rụng. |
 
 ---
 
